@@ -1,0 +1,1 @@
+window.TOMAR_SITE={whatsapp:"919643330507",instagram:"thetomarmethod",siteUrl:"https://thetomarmethod.in/check/",reviewerTitle:"Cash-Flow Reviewer",serviceName:"Cash-Flow Review",prices:{review:499,session:1199},turnaround:"within 2 working days of payment confirmation"};
